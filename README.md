@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MyDecoder
-- 👀 I’m interested in Softeware Development and Architecture
+- 👀 I’m interested in Software Development and Architecture
 - 💞️ I’m looking to collaborate on open source projects
 - 📫 How to reach me ...
 
